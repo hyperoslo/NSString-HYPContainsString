@@ -27,4 +27,4 @@ and if you're using this library we probably want to hire you.
 
 ## License
 
-NSString-HYPFormula is available under the MIT license. See the [LICENSE](https://raw.githubusercontent.com/hyperoslo/NSString-HYPFormula/master/LICENSE.md) file for more info.
+NSString-HYPFormula is available under the MIT license. See the [LICENSE](https://raw.githubusercontent.com/hyperoslo/NSString-HYPContainsString/master/LICENSE.md) file for more info.
