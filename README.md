@@ -6,7 +6,7 @@ API similar to containsString found in iOS8, compatible with iOS7.
 
 NSString *nobelPrizeSpeech = @"bork bork bork!";
 
-if ([speech hyp_containsString:@"bork!"]) {
+if ([nobelPrizeSpeech hyp_containsString:@"bork!"]) {
     NSLog(@"herdy dur mur flerpty floopin");
 }
 
