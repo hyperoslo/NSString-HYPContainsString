@@ -1,6 +1,6 @@
 # NSString-HYPContainsString
 
-API similar to containsString found in iOS8, compatible with iOS7.
+API similar to containsString found in iOS 8, compatible with iOS 7.
 
 ``` objc
 
