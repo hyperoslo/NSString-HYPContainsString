@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name = "NSString-HYPContainsString"
   s.version = "0.1"
-  s.summary = "API similar to containsString found in iOS 8, compatible with iOS 7"
+  s.summary = "Backwards compatible API to containsString found in iOS 8"
   s.description = <<-DESC
-                   * API similar to containsString found in iOS 8, compatible with iOS 7
+                     API similar to containsString found in iOS 8, compatible with iOS 7
                    DESC
   s.homepage = "https://github.com/hyperoslo/NSString-HYPContainsString"
   s.license = {
